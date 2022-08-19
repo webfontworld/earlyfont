@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'EF_Macho';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/earlyfont/EF_Macho.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/earlyfont/EF_Macho.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/earlyfont/EF_Macho.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/earlyfont/EF_Macho.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/earlyfont/EF_Macho.ttf') format("truetype");
+    font-display: swap;
+}
