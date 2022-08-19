@@ -46,7 +46,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'EF_Macho';
+    font-family: 'EF_Hyunygothic';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/earlyfont/EF_Hyunygothic.eot');
