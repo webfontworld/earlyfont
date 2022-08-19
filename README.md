@@ -38,3 +38,22 @@
     font-display: swap;
 }
 </pre>
+
+# 혀니고딕체(EF_Hyunygothic)
+
+<a href="https://wess.tistory.com" target="_blank">
+    <img src="https://webfontworld.github.io/earlyfont/EF_Hyunygothic.jpg" alt="EF_Hyunygothic" style="width:300px">
+</a>
+<pre>
+@font-face {
+    font-family: 'EF_Macho';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/earlyfont/EF_Hyunygothic.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/earlyfont/EF_Hyunygothic.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/earlyfont/EF_Hyunygothic.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/earlyfont/EF_Hyunygothic.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/earlyfont/EF_Hyunygothic.ttf') format("truetype");
+    font-display: swap;
+}
+</pre>
